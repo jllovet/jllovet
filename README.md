@@ -3,9 +3,7 @@
 ## 🐙 Solutions Architect ⿻ Software Engineer ♾ Researcher 📖 Author
 
 - 🤖  I'm a cybersecurity professional with a specialization in Identity and Access Management systems
-- 🧠  I'm learning cross-platform app development, math, and classical guitar
-- 🤝  I'm open to collaborating on education tools and on devops
-
+- 🧠  I'm learning cross-platform app development, graph theory, and classical guitar
 - 📝  I'm working on a language-learning app in a startup and on a book on philosophy and algorithmics
 
 ### Support Me
