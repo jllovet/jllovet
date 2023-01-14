@@ -57,8 +57,8 @@ If you'd like to support my work, I'd be delighted if you bought me a coffee.
 <p align="left">
 <img src="https://raw.githubusercontent.com/lipis/flag-icons/6ace9c47679ff2eb91cbc793fa8f922af32e3320/flags/1x1/us.svg" width="36" height="36" alt="American English" />
 <img src="https://raw.githubusercontent.com/lipis/flag-icons/6ace9c47679ff2eb91cbc793fa8f922af32e3320/flags/1x1/de.svg" width="36" height="36" alt="German" />
-<img src="https://raw.githubusercontent.com/lipis/flag-icons/6ace9c47679ff2eb91cbc793fa8f922af32e3320/flags/1x1/es.svg" width="36" height="36" alt="Spanish" />
 <img src="https://raw.githubusercontent.com/lipis/flag-icons/6ace9c47679ff2eb91cbc793fa8f922af32e3320/flags/1x1/fr.svg" width="36" height="36" alt="French" />
+<img src="https://raw.githubusercontent.com/lipis/flag-icons/6ace9c47679ff2eb91cbc793fa8f922af32e3320/flags/1x1/es.svg" width="36" height="36" alt="Spanish" />
 <img src="https://upload.wikimedia.org/wikipedia/commons/8/8e/Flag_of_the_Roman_Empire.svg" width="36" height="36" alt="Greek" />
 <img src="https://raw.githubusercontent.com/lipis/flag-icons/6ace9c47679ff2eb91cbc793fa8f922af32e3320/flags/1x1/gr.svg" width="36" height="36" alt="Greek" />
 </p>
