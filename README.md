@@ -3,7 +3,7 @@
 ## 🐙 Solutions Architect ⿻ Software Engineer ♾ Researcher 📖 Author
 
 - 🤖  I'm a cybersecurity professional with a specialization in Identity and Access Management systems
-- 🧠  I'm learning cross-platform app development, graph theory, and classical guitar
+- 🧠  I'm learning cross-platform app development, functional programming, graph theory, and classical guitar
 - 📝  I'm working on a language-learning app in a startup and on a book on philosophy and algorithmics
 
 ### Support Me
@@ -31,6 +31,15 @@ If you'd like to support my work, I'd be delighted if you bought me a coffee.
 <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/typescript-colored.svg" width="36" height="36" alt="TypeScript" /></a>
 <a href="https://www.oracle.com/java/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/java-colored.svg" width="36" height="36" alt="Java" /></a>
 <a href="https://clojure.org/" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/5/5d/Clojure_logo.svg" width="36" height="36" alt="Clojure" /></a>
+<a href="https://haskell.org/" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/1/1c/Haskell-Logo.svg" width="36" height="36" alt="Haskell" /></a>
+</p>
+<p align="left">
+<img src="https://raw.githubusercontent.com/lipis/flag-icons/6ace9c47679ff2eb91cbc793fa8f922af32e3320/flags/1x1/us.svg" width="36" height="36" alt="American English" />
+<img src="https://raw.githubusercontent.com/lipis/flag-icons/6ace9c47679ff2eb91cbc793fa8f922af32e3320/flags/1x1/de.svg" width="36" height="36" alt="German" />
+<img src="https://raw.githubusercontent.com/lipis/flag-icons/6ace9c47679ff2eb91cbc793fa8f922af32e3320/flags/1x1/fr.svg" width="36" height="36" alt="French" />
+<img src="https://raw.githubusercontent.com/lipis/flag-icons/6ace9c47679ff2eb91cbc793fa8f922af32e3320/flags/1x1/es.svg" width="36" height="36" alt="Spanish" />
+<img src="https://raw.githubusercontent.com/lipis/flag-icons/6ace9c47679ff2eb91cbc793fa8f922af32e3320/flags/1x1/gr.svg" width="36" height="36" alt="Greek" />
+<img src="https://upload.wikimedia.org/wikipedia/commons/8/8e/Flag_of_the_Roman_Empire.svg" width="36" height="36" alt="Greek" />
 </p>
 
 ### Tools and Frameworks
@@ -52,16 +61,6 @@ If you'd like to support my work, I'd be delighted if you bought me a coffee.
 <p align="left">
 <a href="https://www.github.com/jllovet" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a>
 <a href="https://www.linkedin.com/in/jonathanllovet" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a>
-</p>
-
-### Natural Languages
-<p align="left">
-<img src="https://raw.githubusercontent.com/lipis/flag-icons/6ace9c47679ff2eb91cbc793fa8f922af32e3320/flags/1x1/us.svg" width="36" height="36" alt="American English" />
-<img src="https://raw.githubusercontent.com/lipis/flag-icons/6ace9c47679ff2eb91cbc793fa8f922af32e3320/flags/1x1/de.svg" width="36" height="36" alt="German" />
-<img src="https://raw.githubusercontent.com/lipis/flag-icons/6ace9c47679ff2eb91cbc793fa8f922af32e3320/flags/1x1/fr.svg" width="36" height="36" alt="French" />
-<img src="https://raw.githubusercontent.com/lipis/flag-icons/6ace9c47679ff2eb91cbc793fa8f922af32e3320/flags/1x1/es.svg" width="36" height="36" alt="Spanish" />
-<img src="https://raw.githubusercontent.com/lipis/flag-icons/6ace9c47679ff2eb91cbc793fa8f922af32e3320/flags/1x1/gr.svg" width="36" height="36" alt="Greek" />
-<img src="https://upload.wikimedia.org/wikipedia/commons/8/8e/Flag_of_the_Roman_Empire.svg" width="36" height="36" alt="Greek" />
 </p>
 
 ### Data
