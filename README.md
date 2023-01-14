@@ -38,6 +38,9 @@ If you'd like to support my work, I'd be delighted if you bought me a coffee.
 ### Tools and Frameworks
 
 <p align="left">
+<a href="https://docker.com/" target="_blank" rel="noreferrer"><img src="https://www.docker.com/wp-content/uploads/2022/03/Moby-logo.png" width="44" height="36" alt="Docker" /></a>
+<a href="https://www.kubernetes.io/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/kubernetes/kubernetes/eabb70833a5649e10ab81f04423ce5cb16aba1b7/logo/logo.svg" width="36" height="36" alt="Kubernetes" /></a>
+<a href="https://www.jenkins.io/" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/e/e9/Jenkins_logo.svg" width="26" height="36" alt="Jenkins" /></a>
 <a href="https://ionicframework.com/" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/d/d1/Ionic_Logo.svg" width="36" height="36" alt="Ionic" /></a>
 <a href="https://angular.io/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/angularjs-colored.svg" width="36" height="36" alt="Angular" /></a>
 <a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="36" height="36" alt="React" /></a>
@@ -59,8 +62,8 @@ If you'd like to support my work, I'd be delighted if you bought me a coffee.
 <img src="https://raw.githubusercontent.com/lipis/flag-icons/6ace9c47679ff2eb91cbc793fa8f922af32e3320/flags/1x1/de.svg" width="36" height="36" alt="German" />
 <img src="https://raw.githubusercontent.com/lipis/flag-icons/6ace9c47679ff2eb91cbc793fa8f922af32e3320/flags/1x1/fr.svg" width="36" height="36" alt="French" />
 <img src="https://raw.githubusercontent.com/lipis/flag-icons/6ace9c47679ff2eb91cbc793fa8f922af32e3320/flags/1x1/es.svg" width="36" height="36" alt="Spanish" />
-<img src="https://upload.wikimedia.org/wikipedia/commons/8/8e/Flag_of_the_Roman_Empire.svg" width="36" height="36" alt="Greek" />
 <img src="https://raw.githubusercontent.com/lipis/flag-icons/6ace9c47679ff2eb91cbc793fa8f922af32e3320/flags/1x1/gr.svg" width="36" height="36" alt="Greek" />
+<img src="https://upload.wikimedia.org/wikipedia/commons/8/8e/Flag_of_the_Roman_Empire.svg" width="36" height="36" alt="Greek" />
 </p>
 
 ### Data
