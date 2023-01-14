@@ -51,6 +51,7 @@ If you'd like to support my work, I'd be delighted if you bought me a coffee.
 <a href="https://neo4j.com" target="_blank" rel="noreferrer"><img src="https://neo4j.com/wp-content/themes/neo4jweb/v2-templates/brand/assets/logo-section-4.svg" width="36" height="36" alt="Neo4j" /></a>
 <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/postgresql-colored.svg" width="36" height="36" alt="PostgreSQL" /></a>
 </p>
+
 ### Socials
 
 <p align="left">
