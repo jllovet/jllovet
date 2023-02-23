@@ -4,8 +4,9 @@
 
 - 🤖  Cybersecurity professional with a specialization in Identity and Access Management systems
 - 🧠  Learning cross-platform app development, functional programming, graph theory, and classical guitar
-- 📝  Working on a language-learning app in a startup and writing a book on philosophy and algorithmics
+- 📝  Working on a language-learning app in Opening Questions and writing a book on philosophy and algorithmics
 - 📢  Come talk to me about generating architecture diagrams with code!
+
 ### Support Me
 
 If you'd like to support my work, I'd be delighted if you bought me a coffee.
