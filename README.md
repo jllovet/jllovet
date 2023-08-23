@@ -2,7 +2,7 @@
 
 ## 🐙 Solutions Architect ⿻ Software Engineer ♾ Researcher 📖 Author
 
-- 🤖  Cybersecurity professional with a specialization in Identity and Access Management systems
+- 🤖  Cybersecurity guy specializing in systems for Identity and Access Management
 - 🧠  Learning cross-platform app development, functional programming, graph theory, and classical guitar
 - 📝  Working on a language-learning app in Opening Questions and writing a book on philosophy and algorithmics
 - 📢  Come talk to me about generating architecture diagrams with code!
