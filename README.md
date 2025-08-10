@@ -66,6 +66,3 @@ If you'd like to support my work, I'd be delighted if you bought me a coffee.
 <b>My GitHub Stats</b>
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=jllovet&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" />
-
-<img src="https://github-readme-activity-graph.cyclic.app/graph?username=jllovet&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" />
-
