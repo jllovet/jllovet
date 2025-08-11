@@ -9,7 +9,7 @@
 
 ### Socials
 
-[My Resume](https://rxresu.me/jonathan.llovet/2025-jllovet-resume)
+[My Resume](https://rxresu.me/jonathan.llovet/jllovet-resume)
 <p align="left">
 <a href="https://www.github.com/jllovet" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a>
 <a href="https://www.linkedin.com/in/jonathanllovet" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a>
