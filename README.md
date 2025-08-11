@@ -33,10 +33,3 @@ If you'd like to support my work, I'd be delighted if you bought me a coffee.
 <a href="https://haskell.org/" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/1/1c/Haskell-Logo.svg" width="36" height="36" alt="Haskell" /></a>
 <a href="https://haskell.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/profileme-dev/258fc4b9790489211ecf26f0c353c7bc0d759bd4/public/icons/skills/c-colored.svg" width="36" height="36" alt="C" /></a>
 </p>
-
-
-### Data
-
-<b>My GitHub Stats</b>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=jllovet&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" />
