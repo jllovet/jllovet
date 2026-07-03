@@ -1,9 +1,9 @@
 # Jonathan Llovet
 
-## 🐙 Solutions Architect ⿻ Software Engineer ♾ Researcher 📖 Author
+## 🐙 Solutions Architect ⿻ Mathematician ♾ Researcher 📖 Author
 
-- 🧠  Studied Philosophy and the History of Math and Science at St. John's College. Currently a grad student studying Computer Science at Johns Hopkins University and Towson University. Spending my free time on building servers, writing CLIs, cross-platform app development, functional programming, graph theory, learning languages, and piano.
-- 📝  Working on a language-learning app in Opening Questions and writing a book on philosophy and algorithmics.
+- 🧠  Studied Philosophy and the History of Math and Science at St. John's College. Currently a grad student studying Computer Science at Johns Hopkins University and Towson University. Spending my free time on math, theoretical computer science, functional programming, learning languages, and piano.
+- 📝  Working on writing a book on philosophy and algorithmics.
 - 📢  Come talk to me about generating architecture diagrams with code!
 
 [My Resume](https://rxresu.me/jonathan.llovet/jllovet-resume)
